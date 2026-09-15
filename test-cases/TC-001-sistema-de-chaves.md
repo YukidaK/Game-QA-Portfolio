@@ -89,7 +89,22 @@ A ordem de coleta não deve impedir a abertura da porta, exceto caso exista uma 
 
 ---
 
-## Cenário 6 — Reiniciar o mundo
+## Cenário 6 - Revisar Cenário
+Esse cenário só será feito caso de suspeita de blocos do cenário não agirem de forma esperada no mapa.
+
+### Passos
+
+1. Verificar se possui alguma interação inesperado entre os blocos
+2. Verificar se possível a mesma porta em outro mapa [super plano], ou em uma parte isolada do mapa.
+3. No modo espectador verificar entre os blocos se não possui um bloco fora de posição.
+
+### Resultado esperado
+
+Os blocos não deveriam atrapalhar na interação do jogador com a porta.
+
+--- 
+
+## Cenário 7 — Reiniciar o mundo
 
 ### Passos
 
